@@ -1,4 +1,4 @@
  # first-demo
 this in my first git reposi.
 <br>
-Author - Ayush Baghel
+Author - Ayush Singh Baghel (baghel)
